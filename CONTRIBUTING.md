@@ -1,7 +1,7 @@
 <!--
-This file was generated from bswck/skeleton@4089ffe.
+This file was generated from bswck/skeleton@fe6ed23.
 Instead of changing this particular file, you might want to alter the template:
-https://github.com/bswck/skeleton/tree/4089ffe/fragments/contributing.md
+https://github.com/bswck/skeleton/tree/fe6ed23/fragments/contributing.md
 -->
 # Contributing to [niche](https://github.com/bswck/niche) 🎉
 Contributions are very welcome. 🚀
@@ -18,7 +18,8 @@ Anything tagged with "enhancement" is open to whoever wants to implement it.
 
 ## Write documentation 📖
 The project could always use more documentation, whether as part of the official project
-docs. If you're interested in helping out, check the [docs/](https://github.com/bswck/niche/tree/HEAD/docs) folder in the repository.
+docs. If you're interested in helping out, check the [docs/](https://github.com/bswck/niche/tree/HEAD/docs)
+folder in the repository.
 
 ## Share your feedback 🌍
 The best way to send feedback is to file an issue in the [issue tracker](https://github.com/bswck/niche).
@@ -45,9 +46,9 @@ Ready to contribute? Here's a quick guide on how to set up niche and make a chan
 
 
 <!--
-This section was generated from bswck/skeleton@4089ffe.
+This section was generated from bswck/skeleton@fe6ed23.
 Instead of changing this particular file, you might want to alter the template:
-https://github.com/bswck/skeleton/tree/4089ffe/fragments/guide.md
+https://github.com/bswck/skeleton/tree/fe6ed23/fragments/guide.md
 -->
 
 > [!Note]

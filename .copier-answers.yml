@@ -1,4 +1,4 @@
-_commit: 4089ffe
+_commit: fe6ed23
 _src_path: gh:bswck/skeleton
 author_username: bswck
 docs: true
@@ -14,6 +14,6 @@ pypi_project_description: A vendorable toolset for library and framework develop
 pypi_project_name: niche
 python_version: '3.8'
 repo_name: niche
-test_suite: true
+tests: true
 use_precommit: true
 visibility: public
